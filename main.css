@@ -9,19 +9,19 @@ body {
 position: fixed;
 max-width: 600px;
 top: 100px;
-left: 30%;
+left: 20%;
     
 }
 
 h1 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
-    font-size: 43pt;
+    font-size: 60pt;
     text-transform: uppercase;
 }
 
 h3 {
     font-family: 'Space Mono', monospace;
-    font-size: 12pt;
+    font-size: 16pt;
     color: #AEC399;
 }
