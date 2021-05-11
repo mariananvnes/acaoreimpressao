@@ -16,12 +16,12 @@ left: 30%;
 h1 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
-    font-size: 43px;
+    font-size: 43pt;
     text-transform: uppercase;
 }
 
 h3 {
     font-family: 'Space Mono', monospace;
-    font-size: 12px;
+    font-size: 12pt;
     color: #AEC399;
 }
