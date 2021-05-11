@@ -13,6 +13,15 @@ left: 30px;
 top: 101px;
 }
 
+.botaoAR {
+position: absolute;
+width: 106px;
+height: 71px;
+left: 127px;
+top: 530px;
+}
+
+
 h1 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
