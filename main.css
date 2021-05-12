@@ -26,6 +26,13 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: 'Space Mono', monospace;
+    color: #ffffff;
+    font-size: 40pt;
+    text-transform: uppercase;
+}
+
 h3 {
     font-family: 'Space Mono', monospace;
     font-size: 24pt;
@@ -42,6 +49,8 @@ p {
 u { 
     color: #AEC399;
 }
+
+
  
 /* links */
     
