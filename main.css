@@ -39,6 +39,12 @@ h3 {
     color: #AEC399;
 }
 
+h6 {
+    font-family: 'Space Mono', monospace;
+    font-size: 24pt;
+    color: #AEC399;
+}
+
 /* parágrafos e underline */
 p {
     font-family: 'Montserrat', sans-serif;
