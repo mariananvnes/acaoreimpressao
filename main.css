@@ -71,7 +71,7 @@ a:active {
   width: 100%;
 }
 
-.botaoAR a {
+img.botaoAR {
   float: left;
   display: block;
   text-align: center;
