@@ -63,17 +63,9 @@ a:active {
 
 /* botão de AR - index.html */
 
-.botaoAR {
+img.botaoAR {
   overflow: hidden;
   background-color: #fff;
   position: fixed;
   bottom: 0;
-  width: 100%;
-}
-
-img.botaoAR {
-  float: left;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
 }
