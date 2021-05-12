@@ -64,6 +64,7 @@ a:active {
 /* botão de AR - index.html */
 
 .botaoARbar {
+  background-color: transparent;
   overflow: hidden;
   position: fixed;
   bottom: 0;
