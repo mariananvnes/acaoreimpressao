@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
 
 body {
     background-color: #333333;
@@ -24,5 +25,14 @@ h1 {
 h3 {
     font-family: 'Space Mono', monospace;
     font-size: 16pt;
+    color: #AEC399;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+u { 
     color: #AEC399;
 }
