@@ -11,7 +11,7 @@ body {
 /* caixa para o texto introdutório */
 .intro {
 position: absolute;
-width: 355px;
+width: 80%;
 height: 320px;
 left: 30px;
 top: 101px;
