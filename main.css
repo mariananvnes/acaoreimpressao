@@ -10,6 +10,7 @@ body {
   color: #ffffff;
   background: #AEC399;
 
+/* caixa para o texto introdutório */
 .intro {
 position: absolute;
 width: 80%;
@@ -18,7 +19,8 @@ left: 30px;
 top: 101px;
 }
 
-
+/* destaques textuais */
+    
 h1 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
@@ -32,6 +34,7 @@ h3 {
     color: #AEC399;
 }
 
+/* parágrafos e underline */
 p {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
@@ -39,4 +42,23 @@ p {
 
 u { 
     color: #AEC399;
+}
+ 
+/* links */
+    
+    a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #AEC399;
+}
+
+a:active {
+  text-decoration: none;
 }
