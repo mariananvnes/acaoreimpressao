@@ -35,7 +35,8 @@ h3 {
 /* parágrafos e underline */
 p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    color: #fff;
+    font-size: 20px;
 }
 
 u { 
