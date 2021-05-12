@@ -65,10 +65,10 @@ a:active {
 
 .botaoARbar {
   overflow: hidden;
-  background-color: #fff;
   position: fixed;
   bottom: 0;
   width: 100%;
+  padding: 14px;
 }
 
 img.botaoAR {
