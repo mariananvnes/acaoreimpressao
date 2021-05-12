@@ -60,3 +60,20 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+/* botão de AR - index.html */
+
+.botaoAR {
+  overflow: hidden;
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.botaoAR a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+}
