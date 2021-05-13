@@ -12,6 +12,7 @@ body {
 .intro {
 position: absolute;
 width: 90%;
+height: 100%;
 right: 30px;
 left: 30px;
 top: 101px;
