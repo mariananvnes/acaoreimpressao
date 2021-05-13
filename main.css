@@ -92,18 +92,10 @@ a:active {
 
 /* botão de AR - index.html */
 
-.botaoARbar {
+.bottombar {
   background-color: transparent;
   overflow: hidden;
   position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-.manifestofooter {
-  background-color: transparent;
-  overflow: hidden;
-  position: relative;
   bottom: 0;
   width: 100%;
 }
