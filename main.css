@@ -11,7 +11,7 @@ body {
 /* caixa para o texto introdutório */
 .intro {
 position: absolute;
-width: 100%;
+width: 98%;
 height: 320px;
 right: 30px;
 left: 30px;
@@ -44,6 +44,8 @@ h6 {
     font-family: 'Montserrat', sans-serif;
     font-size: 24pt;
     color: #ffffff;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 /* parágrafos e underline */
@@ -90,7 +92,7 @@ a:active {
   width: 100%;
 }
 
-img.manifesto {
+manifestofooter {
   background-color: transparent;
   bottom: 0;
   width: 100%;
