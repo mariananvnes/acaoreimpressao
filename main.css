@@ -8,6 +8,13 @@ body {
   color: #ffffff;
     background: #AEC399; }
 
+/* div central */
+
+.main {
+ width:100%;
+ height: auto;
+}
+
 /* caixa para o texto introdutório */
 .intro {
 position: absolute;
