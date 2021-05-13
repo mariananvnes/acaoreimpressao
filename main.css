@@ -95,7 +95,7 @@ a:active {
 .manifestofooter {
   background-color: transparent;
   overflow: hidden;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
