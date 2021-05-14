@@ -45,6 +45,7 @@ display: block;
 }
 
 img.botaoAR {
+  height: 75px;
   display: block;
   margin-left: auto;
   margin-right: auto;
