@@ -59,26 +59,26 @@ img.botaoAR {
 h1 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
-    font-size: 43pt;
+    font-size: 43px;
     text-transform: uppercase;
 }
 
 h2 {
     font-family: 'Space Mono', monospace;
     color: #ffffff;
-    font-size: 12pt;
+    font-size: 12px;
     text-transform: uppercase;
 }
 
 h3 {
     font-family: 'Space Mono', monospace;
-    font-size: 20pt;
+    font-size: 20px;
     color: #AEC399;
 }
 
 h6 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24pt;
+    font-size: 24px;
     color: #ffffff;
     text-align: justify;
     text-justify: inter-word;
@@ -88,7 +88,7 @@ h6 {
 p {
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
-    font-size: 24pt;
+    font-size: 24px;
     text-align: justify;
     text-justify: inter-word;
 }
