@@ -8,6 +8,8 @@ body {
   color: #ffffff;
     background: #AEC399; }
 
+@media screen and (min-width: 480px) {
+
 /* div central */
 
 .main {
@@ -15,7 +17,7 @@ body {
  height: auto;
 }
 
-/* caixa para o texto introdutório */
+/* outras divs */
 .intro {
 position: absolute;
 width: 90%;
@@ -24,6 +26,31 @@ right: 30px;
 left: 30px;
 top: 101px;
 display: block;
+}
+    
+.bottombar {
+  background-color: transparent;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.bottombarb {
+  background-color: transparent;
+  overflow: hidden;
+  position: static;
+  bottom: 0;
+  width: 100%;
+}
+
+img.botaoAR {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 35px;
+}
+
 }
 
 /* destaques textuais */
@@ -90,27 +117,3 @@ a:active {
   text-decoration: none;
 }
 
-/* botão de AR - index.html */
-
-.bottombar {
-  background-color: transparent;
-  overflow: hidden;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-.bottombarb {
-  background-color: transparent;
-  overflow: hidden;
-  position: static;
-  bottom: 0;
-  width: 100%;
-}
-
-img.botaoAR {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 35px;
-}
