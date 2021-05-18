@@ -28,18 +28,18 @@ top: 101px;
 display: block;
 }
 
+img.botaoAR {
+  height: 75px;
+}
+
+}
+
 .footer {
   position: fixed;
   bottom: 0;
   width: 100%;
   background-color: transparent;
   text-align: center;
-}
-
-img.botaoAR {
-  height: 75px;
-}
-
 }
 
 /* destaques textuais */
