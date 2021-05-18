@@ -27,26 +27,17 @@ left: 30px;
 top: 101px;
 display: block;
 }
-    
+
 .footer {
   background-color: transparent;
-  overflow: hidden;
   position: fixed;
   bottom: 0;
   width: 100%;
-}
-
-.bottombarb {
-  background-color: transparent;
-  overflow: hidden;
-  position: static;
-  bottom: 0;
-  width: 100%;
+  text-align: center;
 }
 
 img.botaoAR {
   height: 75px;
-  display: block;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 35px;
