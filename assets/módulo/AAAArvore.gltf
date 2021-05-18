@@ -1,0 +1,164 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.3.48",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "leaves"
+        },
+        {
+            "children" : [
+                0
+            ],
+            "mesh" : 1,
+            "name" : "tree"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material.001",
+            "pbrMetallicRoughness" : {}
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material.002",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "leaves",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 3,
+                        "NORMAL" : 4
+                    },
+                    "indices" : 5,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 111130,
+            "max" : [
+                2.0621516704559326,
+                7.939229488372803,
+                2.1854724884033203
+            ],
+            "min" : [
+                -2.314699649810791,
+                0.209272563457489,
+                -1.9159117937088013
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 111130,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5125,
+            "count" : 166740,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 26720,
+            "max" : [
+                1.9116387367248535,
+                7.802690505981445,
+                2.0099265575408936
+            ],
+            "min" : [
+                -2.215362787246704,
+                -0.006429592613130808,
+                -1.7630459070205688
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 26720,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 121056,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1333560,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1333560,
+            "byteOffset" : 1333560
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 666960,
+            "byteOffset" : 2667120
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 320640,
+            "byteOffset" : 3334080
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 320640,
+            "byteOffset" : 3654720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 242112,
+            "byteOffset" : 3975360
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 4217472,
+            "uri" : "AAAArvore.bin"
+        }
+    ]
+}
